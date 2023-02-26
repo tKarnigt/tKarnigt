@@ -39,4 +39,3 @@ A passionate in Software Developer
 <a href="http://www.github.com/tirk101"><img src="https://github-readme-stats.vercel.app/api?username=tirk101&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="tirk101's GitHub stats" /></a>
 
 <a href="https://github.com/tirk101" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirk101&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
