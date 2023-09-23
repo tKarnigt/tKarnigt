@@ -2,14 +2,14 @@
   <img width="75%" src="https://i.pinimg.com/originals/06/ab/ac/06abac31232c1d9a16f41b611c8e35b8.gif"  />
 </div>
 
-<h2 align="center">Hi 👋! My name is Krit Tangpinyoputtikhun</h2>
+<h2 align="center">Hi 👋 ! My name is Krit Tangpinyoputtikhun</h2>
 
 ***
 
 <p align="center"><b>A passionate in Fullstack Developer</b></p>
 <p align="center">🌍 I'm based in Bangkok, Thailand 🌍</p>
-<p align="center">✉️ You can contact me at <a href="mailto:jinokrit@gmail.com">jinokrit@gmail.com</a></p>
-<p align="center">⚡  I'm secretly Spiderman... but don't tell anyone</p>
+<p align="center">✉️ You can contact me at <a href="mailto:jinokrit@gmail.com">jinokrit@gmail.com </a> ✉️</p>
+<p align="center">⚡  I'm secretly Spiderman... but don't tell anyone ⚡</p>
 
 ###
 
