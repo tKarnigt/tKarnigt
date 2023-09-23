@@ -4,14 +4,12 @@
 
 <h2 align="center">Hi 👋 ! My name is Krit Tangpinyoputtikhun</h2>
 
-***
-
-<p align="center"><b>A passionate in Fullstack Developer</b></p>
+<h3 align="center"><b>A passionate in Fullstack Developer</b></h3>
 <p align="center">🌍 I'm based in Bangkok, Thailand 🌍</p>
 <p align="center">✉️ You can contact me at <a href="mailto:jinokrit@gmail.com">jinokrit@gmail.com </a> ✉️</p>
 <p align="center">⚡  I'm secretly Spiderman... but don't tell anyone ⚡</p>
 
-###
+***
 
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=tirk101&show_icons=true&theme=dracula&locale=en" alt="tirk101" />
