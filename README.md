@@ -1,18 +1,21 @@
+<div align="center">
+  <img width="75%" src="https://i.pinimg.com/originals/06/ab/ac/06abac31232c1d9a16f41b611c8e35b8.gif"  />
+</div>
+
 <h2 align="center">Hi 👋! My name is Krit Tangpinyoputtikhun</h2>
-===============================================================================================================================================
 
-<h3 align="center">A passionate in Fullstack Developer</h3>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+***
 
-<h4 align="center">* 🌍  I'm based in Bangkok, Thailand</h4>
-<h4 align="center">* ✉️  You can contact me at [jinokrit@gmail.com](mailto:jinokrit@gmail.com)</h4>
-<h4 align="center">* ⚡  I'm secretly Spiderman... but don't tell anyone</h4>
+<p align="center"><b>A passionate in Fullstack Developer</b></p>
+<p align="center">* 🌍 I'm based in Bangkok, Thailand</p>
+<p align="center">* ✉️ You can contact me at <a href="mailto:jinokrit@gmail.com">jinokrit@gmail.com</a></p>
+<p align="center">* ⚡  I'm secretly Spiderman... but don't tell anyone</p>
 
 ###
 
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tirk101&show_icons=true&locale=en" alt="tirk101" /></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tirk101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=tirk101&show_icons=true&theme=dracula&locale=en" alt="tirk101" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=tirk101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -99,11 +102,5 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tirk101/tirk101/output/snake.svg" alt="Snake animation" />
 
 ###
