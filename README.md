@@ -1,12 +1,4 @@
 <h2 align="center">Hi 👋! My name is Krit Tangpinyoputtikhun</h2>
-===============================================================================================================================================
-
-<h3 align="center">A passionate in Fullstack Developer</h3>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h4 align="center">* 🌍  I'm based in Bangkok, Thailand</h4>
-<h4 align="center">* ✉️  You can contact me at [jinokrit@gmail.com](mailto:jinokrit@gmail.com)</h4>
-<h4 align="center">* ⚡  I'm secretly Spiderman... but don't tell anyone</h4>
 
 ###
 
