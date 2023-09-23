@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krit+Tangpinyoputtikhun!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=DD6387&&pause=500&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Krit+Tangpinyoputtikhun!;" />
 </h1>
 
 <h3 align="center"><b>A passionate in Fullstack Developer</b></h3>
