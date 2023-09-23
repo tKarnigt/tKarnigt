@@ -7,9 +7,9 @@
 ***
 
 <p align="center"><b>A passionate in Fullstack Developer</b></p>
-<p align="center">* 🌍 I'm based in Bangkok, Thailand</p>
-<p align="center">* ✉️ You can contact me at <a href="mailto:jinokrit@gmail.com">jinokrit@gmail.com</a></p>
-<p align="center">* ⚡  I'm secretly Spiderman... but don't tell anyone</p>
+<p align="center">🌍 I'm based in Bangkok, Thailand</p>
+<p align="center">✉️ You can contact me at <a href="mailto:jinokrit@gmail.com">jinokrit@gmail.com</a></p>
+<p align="center">⚡  I'm secretly Spiderman... but don't tell anyone</p>
 
 ###
 
