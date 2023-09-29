@@ -5,11 +5,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=DD6387&&pause=500&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Krit+Tangpinyoputtikhun!;" />
 </h1>
-
+ 
 <h3 align="center"><b>A passionate in Fullstack Developer</b></h3>
-<p align="center">🌍 I'm based in Bangkok, Thailand 🌍</p>
-<p align="center">✉️ You can contact me at <a href="mailto:jinokrit@gmail.com">jinokrit@gmail.com </a> ✉️</p>
-<p align="center">⚡  I'm secretly Spiderman... but don't tell anyone ⚡</p>
+<p align="center">🌍 I'm based in <b> Bangkok, Thailand </b> 🌍</p>
+<p align="center">✉️ I’m currently studying on <b> KMITL </b> ✉️</p>
+<p align="center">⚡  You can contact me at <a href="mailto:jinokrit@gmail.com">jinokrit@gmail.com </a> ⚡</p>
 
 ***
 
