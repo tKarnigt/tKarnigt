@@ -25,8 +25,8 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,express,mongodb,nodejs,figma,prisma,postgres,mysql,tailwind,bootstrap,html,css" width="650"/>
-  <img src="https://skillicons.dev/icons?i=py,docker,git,c,cs,cpp,dotnet,java,tensorflow,pytorch,matlab,linux,arduino,linux,raspberrypi" width="650"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,express,mongodb,nodejs,figma,prisma,postgres,mysql,tailwind,bootstrap,html,css" width="620"/>
+  <img src="https://skillicons.dev/icons?i=py,docker,git,c,cs,cpp,dotnet,java,tensorflow,pytorch,matlab,linux,arduino,linux,raspberrypi" width="620"/>
  
 </div>
 
