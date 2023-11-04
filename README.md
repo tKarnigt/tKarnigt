@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=DD6387&&pause=500&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Krit+Tangpinyoputtikhun!;" />
 </h1>
  
-<h3 align="center"><b>A passionate in Fullstack Developer</b></h3>
+<h3 align="center"><b>A passionate in Devops Engineer</b></h3>
 <p align="center">🌍 I'm based in <b> Bangkok, Thailand </b> 🌍</p>
 <p align="center">✉️ I’m currently studying on <b> KMITL </b> ✉️</p>
 <p align="center">⚡  You can contact me at <a href="mailto:jinokrit@gmail.com">jinokrit@gmail.com </a> ⚡</p>
@@ -25,8 +25,8 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,express,mongodb,nodejs,figma,prisma,postgres,mysql,tailwind,bootstrap,html,css" width="620"/>
-  <img src="https://skillicons.dev/icons?i=py,docker,git,c,cs,cpp,dotnet,java,tensorflow,pytorch,matlab,linux,arduino,linux,raspberrypi" width="620"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,express,mongodb,nodejs,prisma,postgres,mysql,tailwind,bootstrap,html,css" width="620"/>
+  <img src="https://skillicons.dev/icons?i=py,docker,figma,git,c,cs,cpp,dotnet,java,tensorflow,pytorch,matlab,linux,arduino,raspberrypi" width="620"/>
  
 </div>
 
@@ -48,3 +48,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tirk101/tirk101/output/github-contribution-grid-snake.svg" />
+</div>
