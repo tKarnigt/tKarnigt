@@ -49,3 +49,7 @@
 
 ###
 
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tirk101/tirk101/output/github-contribution-grid-snake.svg" />
+  <br/><br/>
+</div>
