@@ -2,9 +2,9 @@
   <img width="75%" src="https://i.pinimg.com/originals/06/ab/ac/06abac31232c1d9a16f41b611c8e35b8.gif"  />
 </div>
 
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=DD6387&&pause=500&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Krit+Tangpinyoputtikhun!;" />
-</h1>
+</div>
  
 <h3 align="center"><b>A passionate in Devops Engineer</b></h3>
 <p align="center">🌍 I'm based in <b> Bangkok, Thailand </b> 🌍</p>
@@ -27,7 +27,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,express,mongodb,nodejs,prisma,postgres,mysql,tailwind,bootstrap,html,css" width="620"/>
   <img src="https://skillicons.dev/icons?i=py,docker,figma,git,c,cs,cpp,dotnet,java,tensorflow,pytorch,matlab,linux,arduino,raspberrypi" width="620"/>
- 
 </div>
 
 ###
@@ -47,9 +46,10 @@
   </a>
 </div>
 
-###
+<br/><br/>
+***
 
 <div align="center">
+  <h3>💻 My Contributions 💻</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tirk101/tirk101/output/github-contribution-grid-snake.svg" />
-  <br/><br/>
 </div>
