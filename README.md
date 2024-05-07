@@ -9,7 +9,7 @@
 <h3 align="center"><b>A passionate in Devops Engineer</b></h3>
 <p align="center">🌍 I'm based in <b> Bangkok, Thailand </b> 🌍</p>
 <p align="center">✉️ I’m currently studying on <b> KMITL </b> ✉️</p>
-<p align="center">⚡  You can contact me at <a href="mailto:jinokrit.t@gmail.com">jinokrit@gmail.com </a> ⚡</p>
+<p align="center">⚡  You can contact me at <a href="mailto:jinokrit.t@gmail.com">jinokrit.t@gmail.com </a> ⚡</p>
 
 ***
 
