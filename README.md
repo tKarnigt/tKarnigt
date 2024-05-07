@@ -9,13 +9,13 @@
 <h3 align="center"><b>A passionate in Devops Engineer</b></h3>
 <p align="center">🌍 I'm based in <b> Bangkok, Thailand </b> 🌍</p>
 <p align="center">✉️ I’m currently studying on <b> KMITL </b> ✉️</p>
-<p align="center">⚡  You can contact me at <a href="mailto:jinokrit@gmail.com">jinokrit@gmail.com </a> ⚡</p>
+<p align="center">⚡  You can contact me at <a href="mailto:jinokrit.t@gmail.com">jinokrit@gmail.com </a> ⚡</p>
 
 ***
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=tirk101&show_icons=true&theme=dracula&locale=en" alt="tirk101" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=tirk101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=tKarnigt&show_icons=true&theme=dracula&locale=en" alt="tKarnigt" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=tKarnigt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ***
@@ -51,5 +51,5 @@
 
 <div align="center">
   <h3>💻 My Contributions 💻</h3>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tirk101/tirk101/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tKarnigt/tKarnigt/output/github-contribution-grid-snake.svg" />
 </div>
